@@ -1,5 +1,5 @@
 # freelance-help-program
-his software is designed to help freelancers calculate their payment based on hours worked. It takes an Excel file as input, where the start time is written in the first column and the end time is written in the second column. The software calculates the total time and the amount to be paid according to the hourly payment entered by the user.
+This software is designed to help freelancers calculate their payment based on hours worked. It takes an Excel file as input, where the start time is written in the first column and the end time is written in the second column. The software calculates the total time and the amount to be paid according to the hourly payment entered by the user.
 
 ## Installation
 
